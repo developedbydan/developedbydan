@@ -11,6 +11,9 @@
 - 🌱 I’m currently learning: React Native.
 - 📫 How to reach me: [guzvicdanijel21@gmail.com](mailto:guzvicdanijel21@gmail.com) or [LinkedIn](https://www.linkedin.com/in/danijel-guzvic/)
 
+<br>
+  
+
 ### Languages and Tools:
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
