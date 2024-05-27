@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<br>
+
 
 - 🔭 I’m currently working on: Various mobile and web projects.
 - 🌱 I’m currently learning: React Native.
