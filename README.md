@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Danijel</h1>
 <h3 align="center">A student passionate about programming mobile applications and front-end web development.</h3>
 
-I enjoy creating seamless and intuitive user experiences, whether it's through a mobile app or a web interface. Always eager to learn new technologies and improve my coding skills.
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<br>
 
 - 🔭 I’m currently working on: Various mobile and web projects.
 - 🌱 I’m currently learning: React Native.
