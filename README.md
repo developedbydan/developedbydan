@@ -77,7 +77,7 @@
 
 <br>
 
-### Statistical Data 
+### Statistical Data:
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developedbydan&theme=dark&background=0d1117&show_icons=true&locale=en&layout=compact" alt="developedbydan" />
 </p>
