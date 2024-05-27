@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: Various mobile and web projects.
 - 🌱 I’m currently learning: React Native.
-- 📫 How to reach me: [guzvicdanijel21@gmail.com](mailto:guzvicdanijel21@gmail.com) or [LinkedIn](https://www.linkedin.com/in/danijel-guzvic/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danijel-guzvic/)
 
 <br>
   
