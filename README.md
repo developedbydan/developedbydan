@@ -73,7 +73,7 @@
 </p>
 
 <br>
-
+### Statistical Data 
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developedbydan&theme=dark&background=0d1117&show_icons=true&locale=en&layout=compact" alt="developedbydan" />
@@ -83,5 +83,5 @@
 
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developedbydan&theme=dark&background=0d1117" alt="developedbydan" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=developedbydan&theme=dark&background=0d1117" alt="developedbydan" />
 </p>
