@@ -85,6 +85,4 @@
 
 
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developedbydan&theme=dark&background=0d1117" alt="developedbydan" />
-</p>
+
