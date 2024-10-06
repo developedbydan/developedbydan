@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danijel</h1>
-<h3 align="center">A student passionate about programming mobile applications and front-end web development.</h3>
+<h3 align="center">A graduate software engineer passionate about programming mobile applications and web development.</h3>
 
 <br>
 
