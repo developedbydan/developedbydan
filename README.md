@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danijel</h1>
-<h3 align="center">A graduate software engineer passionate about programming mobile applications and web development.</h3>
+<h3 align="center">A graduate software engineer passionate about web development and programming mobile applications.</h3>
 
 <br>
 
@@ -46,12 +46,9 @@
     
 </p>
 
-<br>
 
-### Statistical Data:
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developedbydan&theme=dark&background=0d1117&show_icons=true&locale=en&layout=compact" alt="developedbydan" />
-</p>
+
+
 
 
 
